@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Branch()
+comment1.params=sA\ sL\ sW\ sR\ sG\ sX\ sY
+comment1.target=Branch(int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment2.params=step
+comment2.target=void\ grow(int)
+comment3.params=
+comment3.target=void\ grow()
+comment4.params=gr
+comment4.target=void\ paint(java.awt.Graphics)
+numComments=5

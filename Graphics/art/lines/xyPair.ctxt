@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=startX\ startY
+comment0.target=xyPair(double,\ double)
+comment1.params=p\ angle\ length
+comment1.target=xyPair(xyPair,\ double,\ double)
+comment2.params=newX
+comment2.target=void\ setX(double)
+comment3.params=newY
+comment3.target=void\ setY(double)
+comment4.params=p
+comment4.target=void\ setxyPair(xyPair)
+comment5.params=p
+comment5.target=void\ moveBy(xyPair)
+numComments=6

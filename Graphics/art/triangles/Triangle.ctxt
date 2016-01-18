@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=center\ angle\ distance
+comment0.target=Triangle(art.lines.xyPair,\ double,\ double)
+comment1.params=thexyPairs
+comment1.target=Triangle(art.lines.xyPair[])
+comment2.params=center\ angle\ minimum\ maximum
+comment2.target=Triangle(art.lines.xyPair,\ double,\ double,\ double)
+comment3.params=
+comment3.target=art.lines.xyPair[]\ getPoints()
+numComments=4

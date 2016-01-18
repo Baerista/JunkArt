@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=anX\ anY\ anAngle\ anLength\ anR\ anG\ anB
+comment0.target=Line(int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.params=gr\ fade
+comment1.target=boolean\ paint(java.awt.Graphics,\ int)
+numComments=2

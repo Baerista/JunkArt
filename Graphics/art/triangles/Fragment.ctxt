@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=center\ angle\ distance
+comment0.target=Fragment(art.lines.xyPair,\ double,\ double)
+comment1.params=startPoints\ endxyPairs\ angle
+comment1.target=Fragment(art.lines.xyPair[],\ art.lines.xyPair[],\ double)
+comment2.params=startPoints\ angle\ distance\ orientation
+comment2.target=Fragment(art.lines.xyPair[],\ double,\ double,\ double)
+comment3.params=
+comment3.target=void\ createFragments()
+comment3.text=\r\n\ \ \ \ .........p4\r\n\ \ \ \ ............\r\n\ \ \ \ ......cp3...cp1\r\n\ \ \ \ ................\r\n\ \ \ \ ...p6....cp2....p5\r\n\r\n
+comment4.params=g\ percentage
+comment4.target=void\ paint(java.awt.Graphics,\ double)
+numComments=5

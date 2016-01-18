@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=color1\ color2
+comment0.target=Gradient(Clr,\ Clr)
+comment1.params=percentile
+comment1.target=Clr\ getColor(double)
+numComments=2

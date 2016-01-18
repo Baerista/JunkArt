@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=point1\ point2
+comment0.target=Line(xyPair,\ xyPair)
+comment1.params=p\ angle\ length
+comment1.target=Line(xyPair,\ double,\ double)
+comment2.params=
+comment2.target=xyPair\ getDifference()
+comment3.params=
+comment3.target=xyPair\ getHalfway()
+comment4.params=percentile
+comment4.target=xyPair\ getPoint(double)
+comment5.params=
+comment5.target=double\ getLength()
+comment6.params=p
+comment6.target=void\ moveBy(xyPair)
+comment7.params=p
+comment7.target=void\ moveP1(xyPair)
+comment8.params=p
+comment8.target=void\ moveP2(xyPair)
+numComments=9

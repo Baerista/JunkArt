@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=bounds\ someTurn\ someLength\ someFade\ someColors
+comment0.target=LineGroupCC(int[],\ int,\ int,\ int,\ int[][])
+comment1.params=bounds\ someTurn\ someLength\ someFade
+comment1.target=LineGroupCC(int[],\ int,\ int,\ int)
+comment2.params=newFade
+comment2.target=void\ setFade(int)
+comment3.params=newAngle
+comment3.target=void\ setAngle(int)
+comment4.params=newLength
+comment4.target=void\ setLength(int)
+comment5.params=
+comment5.target=void\ step()
+comment6.params=
+comment6.target=void\ checkEm()
+comment7.params=gr
+comment7.target=void\ paint(java.awt.Graphics)
+numComments=8

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=xx\ yy\ ss\ cc
+comment0.target=Ball(int,\ int,\ int,\ java.awt.Color)
+comment1.params=xx\ yy\ percentage
+comment1.target=void\ move(int,\ int,\ double)
+comment2.params=gr
+comment2.target=void\ paint(java.awt.Graphics)
+numComments=3
